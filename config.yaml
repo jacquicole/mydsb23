@@ -15,7 +15,7 @@ params:
   contact:
     address:
       - city: City, ST 00000
-        country: Country
+        country: United Kingdom
         street: Street
         title: Address
     buttonClear: Clear
